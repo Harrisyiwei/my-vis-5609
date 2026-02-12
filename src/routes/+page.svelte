@@ -15,7 +15,7 @@
   <h1>[Harris]'s VIS Site</h1>
   <img
     width="200px"
-    src="../doro.webp"
+    src="../doro.jpg"
   />
   <div>
     You can click up to
