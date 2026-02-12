@@ -1,4 +1,7 @@
-Because my student benifit still not work yet, so I set to public
+Because my student benefit still not work yet, so I set repo to public status
+ 
+
+
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
