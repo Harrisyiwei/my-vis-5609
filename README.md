@@ -1,4 +1,4 @@
-# sv
+Because my student benifit still not work yet, so I set to public
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
