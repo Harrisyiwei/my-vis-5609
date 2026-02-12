@@ -1,4 +1,6 @@
 <script>
+    import { base } from '$app/paths';
+
     let maxClick = $state(4); 
     let cnt = $state(4); // tip: https://svelte.dev/docs/svelte/$state
     
@@ -15,7 +17,7 @@
   <h1>[Harris]'s VIS Site</h1>
   <img
     width="200px"
-    src="../doro.jpg"
+    src="{base}/doro.jpg"
   />
   <div>
     You can click up to
@@ -44,7 +46,7 @@
   
   
   <style>
-    body {
+    :global(body) {
       font-family: Arial, Helvetica, sans-serif;
     }
     button {
